@@ -1,0 +1,195 @@
+body
+{
+    background-color: rgb(17, 17, 17);
+}
+tr
+{
+    background-color: black;
+}
+.novidades 
+{
+    width: 100%;
+    height: 357;
+}
+.bg_image
+{
+    background-image: url(imagens/imagem_2023-04-13_204450696\ \(1\).png); 
+    width: auto;
+    text-align: center;
+    color: aliceblue;
+    font-size: 2.5em;
+
+}
+th 
+{
+    border: 1px black;
+}
+.button
+{
+    background-color: aliceblue;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 0.3%;
+    padding-left: 12%;
+    padding-right: 12%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.button:hover
+{
+    background-color: black;
+    color: white;
+    transition: ease-in-out  0.7s
+}
+*
+{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+.button1 
+{
+    background-color: aliceblue;
+    color: black; 
+    text-decoration: none;
+    border:1px solid black;
+    border-radius: 8px;
+    padding: 0.3%;
+    padding-left: 12%;
+    padding-right: 12%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.button1:hover
+{
+    background-color: black;
+    color: white;
+    transition: ease-in-out  0.7s
+}
+
+.button2
+{
+    background-color: aliceblue;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 0.3%;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.button2:hover
+{
+    background-color: black;
+    color: white;
+    transition: ease-in-out 0.7s;
+}
+.button3
+{
+    background-color: aliceblue ;
+    color:black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 0.3%;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.button3:hover 
+{
+    background-color: black;
+    color:white;
+    transition: ease-in-out 0.7s;
+}
+.button4
+{
+    background-color: aliceblue;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius:8px;
+    padding: 0.3%;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.button4:hover 
+{
+    background-color:black;
+    color:white;
+    transition: ease-in-out 0.7s;
+}
+.circulo
+{
+    color:white;
+    text-decoration: none;
+    border:1px solid black;
+    border-radius: 10px;
+    
+}
+.c_image
+{
+    text-align: center;
+    width: 0%;
+}
+.scale
+{
+    width: 10vw;
+}
+.button5
+{
+    background-color: aliceblue;
+    color:black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 0.3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.button5:hover
+{
+    background-color: black;
+    color:white;
+    transition: ease-in-out 0.7s;
+}
+.button6
+{
+    background-color: rgb(182, 178, 178);
+    color:black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding : 0.3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.button6:hover
+{
+    background-color: black;
+    color: white;
+    transition: ease-in-out 0.7s;
+}
+.texto
+{
+    color:aliceblue;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.paragrafo
+{
+    color:aliceblue;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 23px;
+}
+.foot
+{
+    color:aliceblue;
+}
+.text
+{
+    color:aliceblue;
+    display: inline;
+    font-family: 'Source Sans Pro', sans-serif;
+}
